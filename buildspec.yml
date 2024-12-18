@@ -18,6 +18,7 @@ artifacts:
     - package.json
     - package-lock.json
     - webpack.config.json
+    - app.js
     - 'public/**/*'
     - 'bin/**/*'
     - 'routes/**/*'
